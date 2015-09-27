@@ -1,7 +1,8 @@
 ---
 title: "README - Course Project for "Getting and Cleaning Data""
-author: "Barbara"
 ---
+
+##README - Course Project for "Getting and Cleaning Data"
 
 The course project for Getting and Cleaning Data requires to read in the "Human Activity Recognition Using Smartphones" data set, perform an analysis on the data set, and provide as output a tidy data set, following these instructions:
 
